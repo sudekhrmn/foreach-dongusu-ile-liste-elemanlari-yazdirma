@@ -1,0 +1,1 @@
+# foreach-dongusu-ile-liste-elemanlari-yazdirma
